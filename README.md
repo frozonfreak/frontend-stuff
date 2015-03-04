@@ -3,7 +3,7 @@ Frontend stuff
 
 A continuously expanded list of framework/libraries and tools I used/want to use when building things on the web. Mostly Javascript stuff.
 
-
+- [Web Application Framework](#web-application-framework)
 - [UI Frameworks](#ui-frameworks)
 - [Charts](#charts)
 - [Maps](#maps)
@@ -24,6 +24,16 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Colors](#colors)
 - [Databases](#databases)
 - [Social](#social)
+
+
+### Web Application Framework
+- [angularjs](https://angularjs.org/) - HTML web app development framework
+
+
+### AngularJS Modules
+- [cookies](https://code.angularjs.org/) - AngularJS Cookies and other Angular Modules
+- [uibootstrap](http://angular-ui.github.io/bootstrap/) - Bootstrap for AngularJS
+- [uirouter](http://angular-ui.github.io/ui-router/site/#/api/ui.router) - Alternative router to AngularJS inbuilt router. Useful when handling parameters
 
 
 ### UI Frameworks
