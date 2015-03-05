@@ -34,7 +34,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [cookies](https://code.angularjs.org/) - AngularJS Cookies and other Angular Modules
 - [uibootstrap](http://angular-ui.github.io/bootstrap/) - Bootstrap for AngularJS
 - [uirouter](http://angular-ui.github.io/ui-router/site/#/api/ui.router) - Alternative router to AngularJS inbuilt router. Useful when handling parameters
-
+- [md5](https://github.com/gdi2290/angular-md5) - md5 hashing for AngularJS
 
 ### UI Frameworks
 - [semantic-ui](http://semantic-ui.com/) - UI Kit with lots of themes and elements
