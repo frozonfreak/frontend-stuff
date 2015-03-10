@@ -54,6 +54,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [base](http://matthewhartman.github.io/base/) - Responsive CSS framework with IE7+ support
 - [papier](https://github.com/alexanderGugel/papier) - Material design like minimal CSS framework
 - [materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design
+- [pesticide](http://pesticide.io/) - CSS debugging
 
 ### Charts
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components for d3.js
@@ -149,6 +150,10 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [MProgress.js](https://github.com/lightningtgc/MProgress.js) - Google Material Design Progress Linear bar
 - [countUp.js](https://github.com/inorganik/countUp.js) - Count up or down animation effects for numbers
 - [Messenger.js](http://github.hubspot.com/messenger/) - Client-side growl-like notifications with actions and auto-retry.
+- [cssbuttons](http://unicorn-ui.com/buttons/builder/) - CSS Buttons
+- [tridiv](http://tridiv.com/app/) - Create 3D in CSS
+- [cssmenumaker](http://cssmenumaker.com/) - Creating CSS Menu online
+- [codyhouse](http://codyhouse.co/library/) - Library of UI elements
 
 ### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
