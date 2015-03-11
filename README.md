@@ -137,6 +137,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [animate.css](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations
 - [semantic ui - transition](https://github.com/Semantic-Org/UI-Transition) - Simple CSS3 Animations and transitions
 - [tween.js](https://github.com/tweenjs/tween.js) - Tweening engine
+- [animatedModal](http://joaopereirawd.github.io/animatedModal.js/) - Full screen modals with CSS3 transistions
+
 
 ### UI Elements
 - [awesomplete](https://github.com/LeaVerou/awesomplete) - Lightweight autocomplete
