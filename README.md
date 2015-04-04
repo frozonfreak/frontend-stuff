@@ -156,6 +156,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [tridiv](http://tridiv.com/app/) - Create 3D in CSS
 - [cssmenumaker](http://cssmenumaker.com/) - Creating CSS Menu online
 - [codyhouse](http://codyhouse.co/library/) - Library of UI elements
+- [loadercss](https://github.com/ConnorAtherton/loaders.css) - CSS Loaders
 
 ### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
