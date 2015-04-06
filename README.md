@@ -38,6 +38,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [md5](https://github.com/gdi2290/angular-md5) - md5 hashing for AngularJS
 - [charts](http://jtblin.github.io/angular-chart.js/) - AngularJS directive for chart.js. Requires chart.js 
 - [grid](http://ui-grid.info/) - A data grid for AngularJS, part of the AngularUI suite
+- [timeline](https://github.com/rpocklin/angular-timeline) - An Angular.JS directive that generates a responsive, data-driven vertical timeline to tell a story, show history or describe a sequence of events.
 
 ### AngularJS UI Framework
 - [mobileangularui](http://mobileangularui.com/) - Mobile Angular UI is a mobile UI framework just like Sencha Touch or jQuery Mobile. If you know Angular JS and Twitter Bootstrap you already know it!
