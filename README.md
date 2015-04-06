@@ -71,6 +71,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [jsplumb](https://github.com/sporritt/jsplumb/) - Visual connectivity for webapps (flowcharts, sequence diagrams, etc)
 - [taucharts](http://www.taucharts.com/) - Charts with a focus on design and flexibility
 - [vis.js](http://visjs.org/) - A dynamic, browser based visualization library.
+- [timesheet.js](https://sbstjn.github.io/timesheet.js) - HTML5 & CSS3 time sheets
+- [morris.js](https://github.com/morrisjs/morris.js) - SVG charts based on jquery and Raphael
 
 ### Maps
 - [leaflet](http://leafletjs.com/) - Library for Mobile-Friendly Interactive Maps
@@ -83,6 +85,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [turf](https://github.com/Turfjs/turf) - A modular geospatial engine
 - [osmbuildings](https://github.com/kekscom/osmbuildings) - Library for visualizing buildings as pseudo 3D objects on interactive maps
 - [openlayers3](https://github.com/openlayers/ol3) - Mapping library that supports different projections
+- [cesium](http://cesiumjs.org/) - JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin.
+- [kartograph](http://kartograph.org/) - Simple and lightweight framework for building interactive map applications without Google Maps
 
 ### Text
 - [flowtype](http://simplefocus.com/flowtype/) - Responsive typography
@@ -127,6 +131,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [superscrollorama](https://github.com/johnpolacek/superscrollorama) - The jQuery plugin for supercool scroll animation
 - [fracs](https://github.com/lrsjng/jquery-fracs) - Plugin to determine the visible fractions of HTML elements
 - [scrollmagic](http://janpaepke.github.io/ScrollMagic/) - Trigger effects and animations in both scrolling directions
+- [space.js](https://github.com/gopatrik/space.js) - A HTML-driven JavaScript-library for narrative 3D-scrolling.
 
 ### Animations
 - [impulse](https://github.com/luster-io/impulse) - Dynamic physics interactions for the mobile web
@@ -138,6 +143,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [semantic ui - transition](https://github.com/Semantic-Org/UI-Transition) - Simple CSS3 Animations and transitions
 - [tween.js](https://github.com/tweenjs/tween.js) - Tweening engine
 - [animatedModal](http://joaopereirawd.github.io/animatedModal.js/) - Full screen modals with CSS3 transistions
+- [hovercss](http://ianlunn.github.io/Hover/) - CSS3 Hover Effects
 
 
 ### UI Elements
