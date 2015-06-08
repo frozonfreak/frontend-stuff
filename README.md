@@ -57,6 +57,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [papier](https://github.com/alexanderGugel/papier) - Material design like minimal CSS framework
 - [materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design
 - [pesticide](http://pesticide.io/) - CSS debugging
+- [skeleton](http://getskeleton.com/) - Minimal UI framework
 
 ### Charts
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components for d3.js
