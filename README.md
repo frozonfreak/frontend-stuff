@@ -134,6 +134,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [fracs](https://github.com/lrsjng/jquery-fracs) - Plugin to determine the visible fractions of HTML elements
 - [scrollmagic](http://janpaepke.github.io/ScrollMagic/) - Trigger effects and animations in both scrolling directions
 - [space.js](https://github.com/gopatrik/space.js) - A HTML-driven JavaScript-library for narrative 3D-scrolling.
+- [headroom](http://wicky.nillia.ms/headroom.js/) - Hide your header until you need it
 
 ### Animations
 - [impulse](https://github.com/luster-io/impulse) - Dynamic physics interactions for the mobile web
