@@ -45,6 +45,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [mobileangularui](http://mobileangularui.com/) - Mobile Angular UI is a mobile UI framework just like Sencha Touch or jQuery Mobile. If you know Angular JS and Twitter Bootstrap you already know it!
 - [materialui](https://material.angularjs.org/#/) - The Angular Material project is an implementation of Material Design in Angular.js. This project provides a set of reusable, well-tested, and accessible UI components based on the Material Design system.
 - [foundationzurb](http://pineconellc.github.io/angular-foundation/) - AngularJS directive for Zurb Foundation
+- [lumx](http://ui.lumapps.com/) - Responsive front end framework with AngularJS and Material Design
 
 ### UI Frameworks
 - [semantic-ui](http://semantic-ui.com/) - UI Kit with lots of themes and elements
