@@ -59,6 +59,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design
 - [pesticide](http://pesticide.io/) - CSS debugging
 - [skeleton](http://getskeleton.com/) - Minimal UI framework
+- [layoutit](http://www.layoutit.com/) - Create your frontend code simple and quick for bootstrap3
 
 ### Charts
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components for d3.js
