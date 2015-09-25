@@ -30,7 +30,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### Web Application Framework
 - [angularjs](https://angularjs.org/) - HTML web app development framework
-
+- [aurelia](http://aurelia.io/) - Aurelia is a next gen JavaScript client framework for mobile, desktop and web that leverages simple conventions to empower your creativity
 
 ### AngularJS Modules
 - [cookies](https://code.angularjs.org/) - AngularJS Cookies and other Angular Modules
