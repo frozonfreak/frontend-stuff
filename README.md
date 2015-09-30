@@ -80,7 +80,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [vis.js](http://visjs.org/) - A dynamic, browser based visualization library.
 - [timesheet.js](https://sbstjn.github.io/timesheet.js) - HTML5 & CSS3 time sheets
 - [morris.js](https://github.com/morrisjs/morris.js) - SVG charts based on jquery and Raphael
-
+- [echarts](http://echarts.baidu.com/doc/example-en.html) - Comprehensive charting library and interactive data visualization tool
 ### Maps
 - [leaflet](http://leafletjs.com/) - Library for Mobile-Friendly Interactive Maps
 - [topojson](https://github.com/mbostock/topojson) - An extension to GeoJSON that encodes topology
@@ -171,6 +171,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [cssmenumaker](http://cssmenumaker.com/) - Creating CSS Menu online
 - [codyhouse](http://codyhouse.co/library/) - Library of UI elements
 - [loadercss](https://github.com/ConnorAtherton/loaders.css) - CSS Loaders
+- [vex](http://github.hubspot.com/vex/docs/welcome/) - A modern dialog library which is highly configurable and easy to style
 
 ### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
@@ -193,6 +194,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 ### General
 - [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
 - [accounting.js](http://openexchangerates.github.io/accounting.js/) - Number, money and currency formatting
+- [UpUp](https://www.talater.com/upup/) - Offline First library. Let users visit your site, even without a connection.
 
 ### Icons
 - [weloveiconfonts](http://weloveiconfonts.com/) - A free & open source icon fonts hosting service
@@ -229,3 +231,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### Background
 - [trianglify](http://qrohlf.com/trianglify-generator/) - Create triangular patterns 
+
+
+### Canvas
+- [two.js](https://jonobr1.github.io/two.js/#introduction) - A two-dimensional drawing api
