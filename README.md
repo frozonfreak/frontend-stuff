@@ -26,6 +26,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Databases](#databases)
 - [Social](#social)
 - [Background](#background)
+- [Canvas](#canvas)
 
 
 ### Web Application Framework
