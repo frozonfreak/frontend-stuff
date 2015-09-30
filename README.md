@@ -152,7 +152,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [tween.js](https://github.com/tweenjs/tween.js) - Tweening engine
 - [animatedModal](http://joaopereirawd.github.io/animatedModal.js/) - Full screen modals with CSS3 transistions
 - [hovercss](http://ianlunn.github.io/Hover/) - CSS3 Hover Effects
-
+- [animatron](https://www.animatron.com/) - Stunning HTML5 Animation, No Coding required
 
 ### UI Elements
 - [awesomplete](https://github.com/LeaVerou/awesomplete) - Lightweight autocomplete
