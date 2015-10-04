@@ -27,7 +27,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Social](#social)
 - [Background](#background)
 - [Canvas](#canvas)
-
+- [Extensions](#extensions)
 
 ### Web Application Framework
 - [angularjs](https://angularjs.org/) - HTML web app development framework
@@ -236,3 +236,6 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### Canvas
 - [two.js](https://jonobr1.github.io/two.js/#introduction) - A two-dimensional drawing api
+
+### Extensions
+- [Extensionizr](http://extensionizr.com) - Start a chrome extension in 15 sec
